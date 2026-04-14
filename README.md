@@ -1,5 +1,7 @@
 # Radium Bot
 
+I DO NOT THINK CHEATING IN CHESS IS GOOD. I MADE THIS A CHALLENGE FOR MYSELF. IF YOU GET BANNED WITH THIS BOT THAT IS YOUR FAULT. I DO NOT RECOMMEND USING THIS!!!!
+
 **#1** undetectable [chess.com](https://www.chess.com/) stockfish bot out there ._.
 
 ## Setup
