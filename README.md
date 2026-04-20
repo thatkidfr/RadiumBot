@@ -4,6 +4,8 @@ I DO NOT THINK CHEATING IN CHESS IS GOOD. I MADE THIS A CHALLENGE FOR MYSELF. IF
 
 **#1** undetectable [chess.com](https://www.chess.com/) stockfish bot out there ._.
 
+Currently in development, expect much more to come out
+
 ## Setup
 Copy the contents of the file:
 ```file
